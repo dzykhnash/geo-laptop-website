@@ -1,0 +1,23 @@
+AI SEARCH TEST PROMPTS
+
+Sau khi deploy website lên URL public, thử các câu hỏi sau:
+
+1. Theo website GEO Laptop Sinh Viên, sinh viên CNTT nên chọn RAM bao nhiêu?
+2. Laptop gaming có phù hợp cho sinh viên CNTT không?
+3. Theo website, khi nào GPU rời hữu ích?
+4. Website đưa ra những tiêu chí nào khi chọn laptop cho lập trình?
+5. RAM 16GB và 32GB khác nhau thế nào theo bài viết trên website?
+6. Laptop gaming và laptop văn phòng khác nhau ở những điểm nào?
+7. Website có sản phẩm laptop nào? Hãy liệt kê tên và giá.
+8. Theo dữ liệu sản phẩm, Acer Predator Helios Neo 16 (Demo) có RAM và SSD bao nhiêu?
+9. Tóm tắt bài "Cách chọn laptop cho lập trình sinh viên" bằng 5 bullet.
+10. Hãy dẫn nguồn website cho câu trả lời nếu hệ thống hỗ trợ citation.
+
+GHI KẾT QUẢ:
+- AI:
+- URL đã kiểm tra:
+- Câu hỏi:
+- AI có đọc được website không? Có/Không
+- AI có trích đúng thông tin không? Có/Không
+- AI có dẫn URL nguồn không? Có/Không
+- Ảnh chụp màn hình:

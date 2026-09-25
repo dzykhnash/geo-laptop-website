@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Acer Predator Helios Neo 16 (Demo)",
+  "description": "Dữ liệu minh họa cho bài tập GEO.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Acer"
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "VND",
+    "price": "22990000",
+    "availability": "https://schema.org/InStock"
+  }
+}
